@@ -1,2 +1,2 @@
 # Exam
-Read instructon.docx
+Read instruction.docx
